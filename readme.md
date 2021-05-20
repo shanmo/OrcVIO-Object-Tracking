@@ -9,8 +9,8 @@
 - opencv
 - [catkin simple](https://github.com/catkin/catkin_simple)
 - [darknet ros](https://github.com/leggedrobotics/darknet_ros)
-- [darknet ros bridge](https://github.com/moshanATucsd/OrcVIO_Lite/tree/master/ros_wrapper/src/darknet_ros_bridge)
-- [wm_od_interface_msgs](https://github.com/kschmeckpeper/object_detection/tree/main/wm_od_interface_msgs)
+- [darknet ros bridge](https://github.com/shanmo/OrcVIO-Darknet-ROS)
+- [wm_od_interface_msgs](https://github.com/kschmeckpeper/object_detection/tree/main/wm_od_interface_msgs) or [this link](https://github.com/shanmo/OrcVIO-Darknet-ROS)
 
 ## how to run 
 
