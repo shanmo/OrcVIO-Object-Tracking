@@ -10,7 +10,7 @@
 - [catkin simple](https://github.com/catkin/catkin_simple)
 - [darknet ros](https://github.com/leggedrobotics/darknet_ros)
 - [darknet ros bridge](https://github.com/moshanATucsd/OrcVIO_Lite/tree/master/ros_wrapper/src/darknet_ros_bridge)
-- [wm_od_interface_msgs](https://gitlab.sitcore.net/aimm/phoenix-r1/-/tree/master/src/common_msgs/wm_od_interface_msgs)
+- [wm_od_interface_msgs](https://github.com/kschmeckpeper/object_detection/tree/main/wm_od_interface_msgs)
 
 ## how to run 
 
