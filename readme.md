@@ -1,3 +1,23 @@
+## readme 
+
+This repo is used in [OrcVIO: Object residual constrained Visual-Inertial Odometry](http://me-llamo-sean.cf/orcvio_githubpage/), the related papers are: 
+
+- [IROS 2020](https://arxiv.org/abs/2007.15107)
+- [Journal version TBD]()
+
+If you find this repo useful, kindly cite our publications 
+
+```
+@inproceedings{orcvio,
+          title = {OrcVIO: Object residual constrained Visual-Inertial Odometry},
+          author={M. {Shan} and Q. {Feng} and N. {Atanasov}},
+          year = {2020},
+          booktitle={IEEE Intl. Conf. on Intelligent Robots and Systems (IROS).},
+          url = {http://erl.ucsd.edu/pages/orcvio.html},
+          pdf = {https://arxiv.org/abs/2007.15107}
+        }
+```
+
 ## about  
 
 * this repo implements bbox tracking using sort
@@ -41,54 +61,6 @@ bounding_boxes:
     xmax: 455
     ymax: 453
     id: 18
-    Class: "car"
-    lost_flag: False
-  - 
-    xmin: 19
-    ymin: 159
-    xmax: 69
-    ymax: 51
-    id: 21
-    Class: "car"
-    lost_flag: False
-  - 
-    xmin: 117
-    ymin: 159
-    xmax: 181
-    ymax: 150
-    id: 23
-    Class: "car"
-    lost_flag: False
-  - 
-    xmin: 313
-    ymin: 171
-    xmax: 347
-    ymax: 338
-    id: 25
-    Class: "car"
-    lost_flag: True
-  - 
-    xmin: 201
-    ymin: 162
-    xmax: 261
-    ymax: 232
-    id: 27
-    Class: "car"
-    lost_flag: False
-  - 
-    xmin: 538
-    ymin: 166
-    xmax: 552
-    ymax: 550
-    id: 28
-    Class: "car"
-    lost_flag: False
-  - 
-    xmin: 535
-    ymin: 171
-    xmax: 548
-    ymax: 546
-    id: 29
     Class: "car"
     lost_flag: False
 ```
